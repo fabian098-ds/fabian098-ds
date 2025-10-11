@@ -29,8 +29,6 @@ He completado un **Bootcamp de Data Science (TripleTen)** y cuento con certifica
 🔹 [Telecom Churn Analysis](#) — Classification model to predict customer churn (AUC = 0.87).  
 🔹 [Insurance Claims Risk](#) — Probability analysis using masked data and predictive modeling.  
 
-*(Puedes reemplazar los links cuando tus repos estén públicos o actualizados)*  
-
 ---
 
 ### 📊 Mis estadísticas de GitHub  
