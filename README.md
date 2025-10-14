@@ -37,7 +37,7 @@ Aquí algunos de mis proyectos más relevantes, desarrollados durante mi formaci
 
 ---
 
-### 💼 ([Insurance Claims Risk Prediction](https://github.com/fabian098-ds/insurance-claims-risk))
+### 💼 [Insurance Claims Risk Prediction](https://github.com/fabian098-ds/insurance-claims-risk)
 **Objetivo:** Predecir la probabilidad de que un cliente reciba una prestación de seguro.  
 **Tecnologías:** Python, scikit-learn, Logistic Regression, Gradient Boosting.  
 🧠 *Aplicación de técnicas de enmascaramiento de datos sin degradar el rendimiento.*
