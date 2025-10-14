@@ -30,7 +30,7 @@ Aquí algunos de mis proyectos más relevantes, desarrollados durante mi formaci
 
 ---
 
-### 🚗 [Car Price Estimation]([https://github.com/fabian098-ds/car-price-estimation](https://github.com/fabian098-ds/car-price-prediction))
+### 🚗 ([Car Price Estimation](https://github.com/fabian098-ds/car-price-prediction))
 **Objetivo:** Desarrollar un modelo de regresión para estimar precios de autos usados.  
 **Tecnologías:** Python, pandas, NumPy, scikit-learn, Gradient Boosting.  
 📈 *Evaluado con sMAPE/RMSE para determinar el modelo más preciso.*
