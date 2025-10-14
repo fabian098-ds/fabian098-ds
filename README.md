@@ -30,35 +30,35 @@ Aquí algunos de mis proyectos más relevantes, desarrollados durante mi formaci
 
 ---
 
-### 🚗 [Car Price Estimation](https://github.com/tuusuario/car-price-estimation)
+### 🚗 [Car Price Estimation](https://github.com/fabian098-ds/car-price-estimation)
 **Objetivo:** Desarrollar un modelo de regresión para estimar precios de autos usados.  
 **Tecnologías:** Python, pandas, NumPy, scikit-learn, Gradient Boosting.  
 📈 *Evaluado con sMAPE/RMSE para determinar el modelo más preciso.*
 
 ---
 
-### 💼 [Insurance Claims Prediction](https://github.com/tuusuario/insurance-claims-prediction)
+### 💼 [Insurance Claims Prediction](https://github.com/fabian098-ds/insurance-claims-prediction)
 **Objetivo:** Predecir la probabilidad de que un cliente reciba una prestación de seguro.  
 **Tecnologías:** Python, scikit-learn, Logistic Regression, Gradient Boosting.  
 🧠 *Aplicación de técnicas de enmascaramiento de datos sin degradar el rendimiento.*
 
 ---
 
-### 🚕 [Taxi Demand Forecasting](https://github.com/tuusuario/taxi-demand-forecasting)
+### 🚕 [Taxi Demand Forecasting](https://github.com/fabian098-ds/taxi-demand-forecasting)
 **Objetivo:** Predecir la demanda de taxis para la próxima hora, optimizando la asignación de conductores.  
 **Tecnologías:** Time Series Forecasting, Feature Engineering, Regression Models.  
 📊 *Predicción de picos de demanda con RMSE mejorado.*
 
 ---
 
-### 🎬 [Sentiment Analysis for Movie Reviews](https://github.com/tuusuario/film-reviews-sentiment-analysis)
+### 🎬 [Sentiment Analysis for Movie Reviews](https://github.com/fabian098-ds/film-reviews-sentiment-analysis)
 **Objetivo:** Detectar reseñas negativas mediante procesamiento de lenguaje natural (NLP).  
 **Tecnologías:** TF-IDF, Logistic Regression, LightGBM, NLTK.  
 💬 *Modelo con F1-score de 0.86 para clasificación automática de sentimientos.*
 
 ---
 
-### 📶 [Interconnect Telecom Churn Prediction (Capstone)](https://github.com/tuusuario/interconnect-churn-project)
+### 📶 [Interconnect Telecom Churn Prediction (Capstone)](https://github.com/fabian098-ds/interconnect-churn-project)
 **Objetivo:** Predecir la fuga de clientes en telecomunicaciones y proponer estrategias de retención.  
 **Tecnologías:** Python, scikit-learn, CatBoost, SMOTE.  
 📉 *Modelo final con ROC-AUC ≈ 0.88 y recomendaciones estratégicas de retención.*
