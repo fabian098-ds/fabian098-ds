@@ -58,7 +58,7 @@ Aquí algunos de mis proyectos más relevantes, desarrollados durante mi formaci
 
 ---
 
-### 📶 [Interconnect Telecom Churn Prediction (Capstone)](https://github.com/fabian098-ds/interconnect-churn-project)
+### 📶 [Interconnect Telecom Churn Prediction](https://github.com/fabian098-ds/interconnect-churn-project)
 **Objetivo:** Predecir la fuga de clientes en telecomunicaciones y proponer estrategias de retención.  
 **Tecnologías:** Python, scikit-learn, CatBoost, SMOTE.  
 📉 *Modelo final con ROC-AUC ≈ 0.88 y recomendaciones estratégicas de retención.*
