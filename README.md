@@ -1,11 +1,12 @@
 # 👋 ¡Hola! Soy Fabián Campos  
 💼 *Business & Data Analyst | Salesforce Trainee | Cloud & AI Enthusiast*  
 
-Apasionado por la tecnología, los datos y la automatización inteligente.  
-Actualmente formo parte de **IBM**, donde colaboro en proyectos de revisión técnica y procesos de open source compliance.  
-He completado un **Bootcamp de Data Science (TripleTen)** y cuento con certificaciones en **AWS, Scrum y Design Thinking**.  
+Apasionado por la tecnología, los datos y la automatización inteligente 🤖  
+Actualmente formo parte de **IBM**, donde colaboro en proyectos de revisión técnica y procesos de **open source compliance**.  
+He completado un **Bootcamp de Data Science (TripleTen)** y cuento con certificaciones en **AWS, Scrum y Design Thinking**.
 
-📈 Mi objetivo: conectar **datos, procesos y tecnología** para impulsar decisiones estratégicas en entornos globales.  
+💡 Me caracterizo por ser **analítico, colaborativo y curioso**, siempre buscando soluciones simples a problemas complejos.  
+📈 Mi objetivo: **conectar datos, procesos y tecnología** para impulsar decisiones estratégicas y generar impacto real en entornos globales.
 
 ---
 
